@@ -23,8 +23,8 @@ This project is a Power BI dashboard built to analyze and visualize key business
 - **Dashboard Design**
 
 ## 📸 Screenshots
-![Screenshot 2025-04-12 020021](https://github.com/user-attachments/assets/940b7f9d-f740-409e-93de-3da572cc30d8)
-![Screenshot 2025-04-12 020126](https://github.com/user-attachments/assets/f45117c7-be28-4147-a53d-d3901c4282b9)
+![Screenshot 2025-04-12 020900](https://github.com/user-attachments/assets/fe9b04c0-ec66-427b-bea9-922e2b6d1fea)
+
 
 ## 🚀 Getting Started
 
